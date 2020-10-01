@@ -27,6 +27,9 @@
       "scripthost"
     ]
   },
+  "rules": {
+    "ban-ts-ignore": false
+  },
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx",
